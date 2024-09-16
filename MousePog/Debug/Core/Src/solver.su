@@ -1,0 +1,8 @@
+../Core/Src/solver.c:19:8:floodFill	32	static
+../Core/Src/solver.c:93:8:floodFillReturn	32	static
+../Core/Src/solver.c:167:6:updateNeighbors	8	static
+../Core/Src/solver.c:183:6:initMaze	24	static
+../Core/Src/solver.c:208:6:updateMaze	4048	static
+../Core/Src/solver.c:276:6:updateMazeReturn	4048	static
+../Core/Src/solver.c:344:6:resetPosition	4	static
+../Core/Src/solver.c:350:6:resetPositionReturn	4	static

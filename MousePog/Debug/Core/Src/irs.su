@@ -1,0 +1,7 @@
+../Core/Src/irs.c:21:10:readIR	24	static
+../Core/Src/irs.c:68:10:readLeftIR	8	static
+../Core/Src/irs.c:73:10:readFrontLeftIR	8	static
+../Core/Src/irs.c:78:10:readFrontRightIR	8	static
+../Core/Src/irs.c:84:10:readRightIR	8	static
+../Core/Src/irs.c:93:10:analogRead	48	static
+../Core/Src/irs.c:154:6:HAL_ADC_ConvCpltCallback	16	static

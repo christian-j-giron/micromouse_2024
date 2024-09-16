@@ -1,0 +1,4 @@
+../Core/Src/motors.c:10:7:limitPWM	16	static
+../Core/Src/motors.c:36:6:setMotorLPWM	24	static
+../Core/Src/motors.c:61:6:setMotorRPWM	24	static
+../Core/Src/motors.c:77:6:resetMotors	8	static
